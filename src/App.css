@@ -1,0 +1,29 @@
+.mt1::-webkit-meter-optimum-value {
+    background: violet; /* Green */
+
+   
+}
+
+.mt2::-webkit-meter-optimum-value {
+    background: crimson; /* Green */
+   
+}
+
+.mt3::-webkit-meter-optimum-value {
+    background: yellow; /* Green */
+   
+}
+
+.mt4::-webkit-meter-optimum-value {
+    background: orange; /* Green */
+   
+}
+
+meter::-webkit-meter-optimum-value {
+    background: yellowgreen; /* Green */
+   
+}
+
+.td1{
+    border:'none'
+}
