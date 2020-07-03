@@ -23,7 +23,7 @@ const Main = () => {
                     <div className="col-sm-6 text-center">
                         <h4>Sales Dashboard</h4>
                     </div>
-                      <div className="col-sm-6" style={{display:'flex'}}>
+                      <div className="col-sm-6" style={{display:'flex',justifyContent:'space-around'}}>
                            <button className="btn btn-sm btn-success">Create Folder</button>
                     <form>
                         <input type="file"  />
